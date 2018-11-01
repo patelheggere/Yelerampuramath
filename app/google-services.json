@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "245187387970",
+    "firebase_url": "https://yelerampura-matha.firebaseio.com",
+    "project_id": "yelerampura-matha",
+    "storage_bucket": "yelerampura-matha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245187387970:android:dc7758a0f9a6c99e",
+        "android_client_info": {
+          "package_name": "com.yelerampura.math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245187387970-fe2sqvcnjq1khohcv7cm7cbvao8cqq3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yelerampura.math",
+            "certificate_hash": "31f193b39e94e6b1d609010f4fe9be4db314c4a9"
+          }
+        },
+        {
+          "client_id": "245187387970-jvja170uhr9h55lgobn83k69ipus13tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARjF4u4GqBDtdo5fHnQIC4dR3pZnaT0PU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245187387970-jvja170uhr9h55lgobn83k69ipus13tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

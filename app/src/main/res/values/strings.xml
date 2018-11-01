@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Kunchashree</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="next">nect</string>
+    <string name="skip">skip</string>
+    <string name="start">Start</string>
+    <string name="kannada">Kannada</string>
+    <string name="engish">English</string>
+    <string name="continu">Continue</string>
+    <string name="later_you_can_change">Later you can change</string>
+    <string name="tell_us_about_you">Tell us about you</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="kula">Kula/Bedagu</string>
+    <string name="register">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registration">Registration</string>
+    <string name="name_required">Please Enter Your Name</string>
+    <string name="phone_correct">Enter Correct Phone number</string>
+    <string name="please_bedagu">Bedagu</string>
+    <string name="gallery">Gallery</string>
+    <string name="some_thing_wrong">Some thing not good</string>
+    <string name="english">English</string>
+    <string name="confirmation">confirm</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_events">Events</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_hitanudi">Message</string>
+    <string name="about">About Matha</string>
+</resources>
