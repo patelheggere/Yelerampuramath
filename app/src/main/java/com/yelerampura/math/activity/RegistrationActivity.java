@@ -60,18 +60,19 @@ public class RegistrationActivity extends BaseActivity {
     private void addListofInterest() {
         listKula = new ArrayList<>();
         listKula.add("Select one");
-        listKula.add("KAS");
-        listKula.add("PDO");
-        listKula.add("FDA");
-        listKula.add("SDA");
-        listKula.add("BANKING");
-        listKula.add("TET");
-        listKula.add("CET");
-        listKula.add("NEET");
-        listKula.add("POLICE");
-        listKula.add("PSI");
-        listKula.add("KES");
-        listKula.add("OTHERS");
+        listKula.add("Bellenavaru");
+        listKula.add("Eredukeryavaru");
+        listKula.add("Janukallavaru");
+        listKula.add("Havinavaru");
+        listKula.add("Andenavaru");
+        listKula.add("Basalenavaru");
+        listKula.add("Kagenavaru");
+        listKula.add("Jeerigeyavaru");
+        listKula.add("Kataradavaru");
+        listKula.add("Jaldenavaru");
+        listKula.add("Aluvanavaru");
+        listKula.add("Raginavaru");
+        listKula.add("Alpenavaru");
     }
 
     @Override

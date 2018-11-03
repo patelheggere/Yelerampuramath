@@ -33,4 +33,9 @@
     <string name="title_gallery">Gallery</string>
     <string name="title_hitanudi">Message</string>
     <string name="about">About Matha</string>
+    <string name="kunchashree">Kunchashree</string>
+    <string name="about_swamiji">Sawmiji Background</string>
+    <string name="matha_data">Math Background</string>
+    <string name="kunchtiga_hostory">Kunchitiga History</string>
+    <string name="place">Place</string>
 </resources>

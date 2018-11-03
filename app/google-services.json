@@ -8,6 +8,37 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:245187387970:android:f40575357a16b56c",
+        "android_client_info": {
+          "package_name": "com.yelerampura.admin.swamiji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245187387970-jvja170uhr9h55lgobn83k69ipus13tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARjF4u4GqBDtdo5fHnQIC4dR3pZnaT0PU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:245187387970:android:dc7758a0f9a6c99e",
         "android_client_info": {
           "package_name": "com.yelerampura.math"
